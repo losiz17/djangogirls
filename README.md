@@ -28,5 +28,5 @@ Now that you have your virtualenv started, you can install Django.
 ```
 (myvenv) ~/djangogirls$ python manage.py runserver
 ```
-![image](https://user-images.githubusercontent.com/27879820/53804902-1615a780-3f8c-11e9-9462-4ca86b240431.png)
+![image](https://user-images.githubusercontent.com/27879820/53805042-73a9f400-3f8c-11e9-9df9-dd82a9a05665.png)
 
